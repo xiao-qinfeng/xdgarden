@@ -3,7 +3,7 @@
 ---
 
 
-# 欢迎来到Xiaoqf's Digital Garden
+# 欢迎来到我的数字花园
 
 ## About me :
 
@@ -27,6 +27,6 @@
   - [anki制卡和同步](https://github.com/xiao-qinfeng/anki) 支持上传文本、pdf/epub/md文档、url（视频/音频解析）批量制作知识卡片、。搭配anki插件可以实现一键同步到ankiweb。开源，fork至本地可以轻松部署
   
   - [生命周数可视化](https://life-weeks.echohunter.top/) 输入出生日期能显示人生进度。在claude上看到的案例，模仿制作了一个。这个项目一定程度上激发了我做数字花园的冲动。  
-	  demo：![1972年出生的父母](/img/user/src/site/img/demo/lifedomo.png)   
+	  demo：![人生进度](/img/user/media/lifeweekdomo.png)   
 ## 联系方式
 -  [Github](https://github.com/xiao-qinfeng/)
