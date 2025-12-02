@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"src/site/notes/home.md","permalink":"/src/site/notes/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry","aboutme"]}
 ---
 
 
@@ -22,11 +22,12 @@
 
 
 ## 开源项目：
+
   - [回声猎人](https://www.echohunter.top/)  一款无用的不支持同步的思绪记录app 。我喜欢它的神经回声模块，配置大模型api可以得到实时的较难预测的一种信号反馈，鼓励奇怪的表达。满足自己离线记录同时克制的使用ai功能。浏览器安装UI接近原声app体验，数据支持导出json；可视化神经拓扑花园和ob知识关系图谱异曲同工。 
 
   - [anki制卡和同步](https://github.com/xiao-qinfeng/anki) 支持上传文本、pdf/epub/md文档、url（视频/音频解析）批量制作知识卡片、。搭配anki插件可以实现一键同步到ankiweb。开源，fork至本地可以轻松部署
   
   - [生命周数可视化](https://life-weeks.echohunter.top/) 输入出生日期能显示人生进度。在claude上看到的案例，模仿制作了一个。这个项目一定程度上激发了我做数字花园的冲动。  
-	  demo：![人生进度](/img/user/media/lifeweekdomo.png)   
+  ![1938人生进度](/img/user/media/1938.png)   
 ## 联系方式
 -  [Github](https://github.com/xiao-qinfeng/)
