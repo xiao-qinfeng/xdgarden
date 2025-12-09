@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/library/","tags":["book_shelf"]}
 ---
 
+# 2025年一些书
 
-
-- read
-- reading
+# read
+# reading
 	  - 《我们内心的冲突》卡伦·霍尼
 	  - 《悉达多》Hermann Hesse
 	  - 《起床后的黄金1小时》
@@ -16,6 +16,13 @@
 	  - 《纳瓦尔宝典》
 	  - 《原子习惯》
 	  - 《认知觉醒》
-	  - 《经验的疆界解》
+	  - 《经验的疆界》
 	  - 《原则》
-- toread
+# toread
+
+
+
+
+# [[notes\|notes]]
+
+# [[home\|home]]
